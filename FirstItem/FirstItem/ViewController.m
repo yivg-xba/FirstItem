@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // EEEEEEason_X
     //JackMeng
+    //Faker01
     
     self.view.backgroundColor = [UIColor colorWithRed:0.98 green:0.94 blue:0.94 alpha:1.00];
     
