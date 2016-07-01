@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // EEEEEEason_X
     //JackMeng
+    
+    self.view.backgroundColor = [UIColor colorWithRed:0.98 green:0.94 blue:0.94 alpha:1.00];
+    
 }
 
 - (void)didReceiveMemoryWarning {
